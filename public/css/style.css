@@ -1,0 +1,22 @@
+body {
+  background-color: #333533;
+  height: 100vh;
+  font-family: monospace;
+  color: #e8eddf;
+}
+.jumbotron {
+  background-color: #333533 !important;
+  min-height: 30vh;
+}
+
+#panel {
+  background-color: #f5cb5c;
+  min-height: 5em;
+  color: #333533;
+  font-size: 2em;
+  padding-bottom: 0.5em;
+}
+
+button {
+  background-color: #333533 !important;
+}
